@@ -71,11 +71,11 @@
 </div>
 
 ###
-<!--
-<div align="left">
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=debajitadhikary&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
--->
+
 ###
 
 <!--
